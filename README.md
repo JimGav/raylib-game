@@ -14,3 +14,6 @@ Download main.exe and run it.
 - WASD - Control the shooter.
 - Left Mouse Button - Shoot a projectile.
 - Right Mouse Button - Drag a projectile and throw it changing its direction.
+
+# 
+Any feedback or recommendations is appreciated.
