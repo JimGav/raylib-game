@@ -2,7 +2,7 @@
 This is a simple game I made to get familiar with C++ raylib. For the moment it is just a circle with some kb/m interractions but I might evolve it to something more interesting in the future.
 
 # How to run
-Download main.exe and run it.
+Download main.exe and run it. (You might need to download some dll files. Will fix that soon)
 ## Or
 - Install the repository locally by either cloning it or downloading the code.
 ```git clone https://github.com/JimGav/raylib-game.git```
